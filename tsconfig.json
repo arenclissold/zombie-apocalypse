@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "lib": ["ESNEXT", "dom"],
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "strict": true,
+  },
+  "typeAcquisition": {
+    "include": [
+      "jest"
+    ]
+  }
+}
